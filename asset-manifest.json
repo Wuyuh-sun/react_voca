@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_voca/static/css/main.073c9b0a.css",
+    "main.js": "/react_voca/static/js/main.ffd4944a.js",
+    "static/js/787.1d9ebbe4.chunk.js": "/react_voca/static/js/787.1d9ebbe4.chunk.js",
+    "index.html": "/react_voca/index.html",
+    "main.073c9b0a.css.map": "/react_voca/static/css/main.073c9b0a.css.map",
+    "main.ffd4944a.js.map": "/react_voca/static/js/main.ffd4944a.js.map",
+    "787.1d9ebbe4.chunk.js.map": "/react_voca/static/js/787.1d9ebbe4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ffd4944a.js"
+  ]
+}
